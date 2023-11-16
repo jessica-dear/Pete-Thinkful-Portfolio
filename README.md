@@ -1,2 +1,3 @@
-# Pete-Thinkful-Portfolio
-Pete Thinkful Portfolio Project
+First project for Github
+
+Pete Thinkful's Portfolio Page
